@@ -1,5 +1,8 @@
 # GENAI POWERED INTERVIEW PLATFORM
 
+## DEMO VIDEO:
+https://youtu.be/8LGo-8_eUZw
+
 ```
 1.Install requirements.txt
 
@@ -12,4 +15,5 @@
 ```
 
 NOTE: This is a partial work been done,not the full scale project
-We got an idea(prrof of concept) that this system can be build.
+
+We got an idea(proof of concept) that this system can be build.
